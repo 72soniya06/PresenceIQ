@@ -1,0 +1,10 @@
+{
+  "name": "PresenceIQ",
+  "description": "Smart AI-powered attendance system with real-time class occupant counting.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
